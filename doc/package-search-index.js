@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"se.miun.chrfin.foxgame"},{"l":"se.miun.chrfin.foxgame.com"},{"l":"se.miun.chrfin.foxgame.exceptions"},{"l":"se.miun.chrfin.foxgame.logic"},{"l":"se.miun.chrfin.foxgame.setup"}]
